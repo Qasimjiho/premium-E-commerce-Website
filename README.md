@@ -33,8 +33,6 @@ It’s fast, lightweight, and crafted with precision — made entirely using fro
 ✅ **Optimized Codebase** – Fast loading and lightweight performance  
 ✅ **Clean File Structure** – Easy to read and maintain  
 
-If you like this project, don’t forget to star the repo!
-Made with ❤️ by <b>Qasim Jiho
 ---
 
 ## 🧠 Tech Stack
@@ -55,21 +53,48 @@ Made with ❤️ by <b>Qasim Jiho
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/Qasimjiho/premium-E-commerce-Website.git
-☁️ Deployment
+```
 
-You can host this website for free using:
+### 2️⃣ Open the Project
+Just open the `index.html` file in your browser:
+```bash
+start index.html
+```
 
-🌐 Vercel
+---
 
-🚀 GitHub Pages
+## 🖼️ Screenshots
 
-⚡ Cloudflare Pages
+| Home Page | Product Page | Cart |
+|------------|---------------|------|
+| *(Add Screenshot)* | *(Add Screenshot)* | *(Add Screenshot)* |
 
-##👑 Developer Info
-Name	Contact
-👤 Qasim Jiho	
-📧 Email	qasim18574@gmail.com
+---
 
-📱 Phone	+92 312 5726553
+## ☁️ Deployment
 
+You can host this website for **free** using:
+- 🌐 [Vercel](https://vercel.com)
+- 🚀 [GitHub Pages](https://pages.github.com)
+- ⚡ [Cloudflare Pages](https://pages.cloudflare.com)
 
+---
+
+## 👑 Developer Info
+
+| Name              | Contact                                              |
+| ----------------- | ---------------------------------------------------- |
+| 👤 **Qasim Jiho** |                                                      |
+| 📧 Email          | [qasim18574@gmail.com](mailto:qasim18574@gmail.com)  |
+| 📱 Phone          | [+92 312 5726553](tel:+923125726553)                 |
+| 💻 GitHub         | [github.com/Qasimjiho](https://github.com/Qasimjiho) |
+
+---
+
+<p align="center">
+  ⭐ <b>If you like this project, don’t forget to star the repo!</b> ⭐
+</p>
+
+<p align="center">
+  Made with ❤️ by <b>Qasim Jiho</b>
+</p>
