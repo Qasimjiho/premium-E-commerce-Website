@@ -63,13 +63,7 @@ start index.html
 
 ---
 
-## 🖼️ Screenshots
 
-| Home Page | Product Page | Cart |
-|------------|---------------|------|
-| *(Add Screenshot)* | *(Add Screenshot)* | *(Add Screenshot)* |
-
----
 
 ## ☁️ Deployment
 
